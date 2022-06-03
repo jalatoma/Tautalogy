@@ -7,3 +7,5 @@ Propositional logic is a branch of mathematics that deals with the Boolean const
 In this assigment, we will write code in OCaml simplifying a tautology expression into it's simplest form while applying normalizing and simplifying rules on the expressions.
 
 **All code written in the file is my own work**
+
+ - Note: in the comments at the bottom of the file are my hand-written test cases and output from those cases.
